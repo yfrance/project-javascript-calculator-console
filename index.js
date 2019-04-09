@@ -1,14 +1,14 @@
-const Nilai_Ali = 70;
-const Nilai_Budi = 85;
+const firstNumber = 70;
+const secondNumber = 85;
 
-const resultAddition = Nilai_Ali + Nilai_Budi;
+const resultAddition = firstNumber + secondNumber;
 console.log(resultAddition);
 
-const resultSubstraction = Nilai_Ali - Nilai_Budi;
+const resultSubstraction = firstNumber - secondNumber;
 console.log(resultSubstraction);
 
-const resultMultiplication = Nilai_Ali * Nilai_Budi;
+const resultMultiplication = firstNumber * secondNumber;
 console.log(resultMultiplication);
 
-const resultDivison = Nilai_Ali / Nilai_Budi;
+const resultDivison = firstNumber / secondNumber;
 console.log(resultDivison);
